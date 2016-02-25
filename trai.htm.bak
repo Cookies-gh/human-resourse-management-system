@@ -1,0 +1,113 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>TRAINING DEPARTMENT</title>
+</head>
+
+<body bgcolor="#66CCFF">
+<FORM method="post" ACTION="trai.jsp">
+
+<p><font face="Copperplate Gothic Bold">&nbsp;</font></p>
+<p>&nbsp;</p>
+<p><font face="Copperplate Gothic Bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TRAINING 
+DEPARTMENT</font></font></p>
+<p><font face="Copperplate Gothic Bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></p>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="50%" id="AutoNumber1" height="146" bordercolorlight="#66CCFF" bordercolordark="#66CCFF">
+    <tr>
+      <td width="47%" height="19">User Name</td>
+      <td width="53%" height="19"><font face="Copperplate Gothic Bold">
+      <input type="text" name="username" size="20"></font></td>
+    </tr>
+    <tr>
+      <td width="47%" height="19">Employee id</td>
+      <td width="53%" height="19"><font face="Copperplate Gothic Bold">
+      <input type="text" name="emp_id" size="20"></font></td>
+    </tr>
+    <tr>
+      <td width="47%" height="22">Project Name</td>
+      <td width="53%" height="22"><font face="Copperplate Gothic Bold">
+      <input type="text" name="projn" size="20"></font></td>
+    </tr>
+    <tr>
+      <td width="47%" height="22">Training Department</td>
+      <td width="53%" height="22">
+<select size="1" name="dept">
+<option>Select any department</option>
+<option>Financing</option>
+<option>Production</option>
+<option>Sales</option>
+<option>Security</option>
+<option>Networking</option>
+<option>Transportation</option>
+<option>Administration</option>
+</select></td>
+    </tr>
+    <tr>
+      <td width="47%" height="19"><font face="Copperplate Gothic Bold">Skill 
+      Report</font></td>
+      <td width="53%" height="19"><font face="Copperplate Gothic Bold">
+      <input type="text" name="skill" size="11"></font></td>
+    </tr>
+    <tr>
+      <td width="47%" height="19"><font face="Copperplate Gothic Bold">Start 
+      Date</font></td>
+      <td width="53%" height="19"><select size="1" name="sdat">
+      <option>01-01-2014</option>
+      <option>01-02-2014</option>
+      <option>01-03-2014</option>
+      <option>01-04-2014</option>
+      <option>01-05-2014</option>
+      <option>01-06-2014</option>
+      <option>01-07-2014</option>
+      <option>01-08-2014</option>
+      <option>01-09-2014</option>
+      <option>01-10-2014</option>
+      <option>01-11-2014</option>
+      <option>01-12-2014</option>
+      </select></td>
+    </tr>
+    <tr>
+      <td width="47%" height="19"><font face="Copperplate Gothic Bold">End Date</font></td>
+      <td width="53%" height="19"><select size="1" name="edate">
+      <option>01-01-2005</option>
+      <option>01-02-2005</option>
+      <option>01-03-2005</option>
+      <option>01-04-2005</option>
+      <option>01-05-2005</option>
+      <option>01-06-2005</option>
+      <option>01-07-2005</option>
+      <option>01-08-2005</option>
+      <option>01-09-2005</option>
+      <option>01-10-2005</option>
+      <option>01-11-2005</option>
+      <option>01-12-2005</option>
+      </select></td>
+    </tr>
+    <tr>
+      <td width="47%" height="78"><font face="Copperplate Gothic Bold">Remarks</font></td>
+      <td width="53%" height="78"><font face="Copperplate Gothic Bold">
+      <textarea rows="9" name="reas" cols="26"></textarea></font></td>
+    </tr>
+    <tr>
+      <td width="47%" height="1" align="center"><font face="Copperplate Gothic Bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></td>
+      <td width="53%" height="1" align="center"><font face="Copperplate Gothic Bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+      <p><input type="submit" value="Submit" name="B1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input type="reset" value="Reset" name="B2"></p>
+      <p>&nbsp;</td>
+    </tr>
+  </table>
+  </center>
+</div>
+</FORM>
+
+</body>
+
+</html>
